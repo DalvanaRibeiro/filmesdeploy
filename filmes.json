@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": 2001,
+    "genero": "Fantasia, Aventura"
+  },
+  {
+    "id": 2,
+    "titulo": "O Poderoso Chefão",
+    "ano": 1972,
+    "genero": "Crime, Drama"
+  },
+  {
+    "id": 3,
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "ano": 1994,
+    "genero": "Drama, Romance"
+  }
+]
